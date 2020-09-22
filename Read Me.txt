@@ -1,0 +1,16 @@
+                                            
+                                       
+
+
+                                           Welcome To Metro Rail Transport (MRTS)
+                                           =====================================                                 
+
+
+               ***  Instal Codeblocks on your PC
+               ***  Run "Project.c" file on Codeblocks
+               ***  Follow insruction which is given in 1st window of project
+               ***  It's created by group iv using C program only
+               ***  Thanks for using "MRTS"
+
+                ** Let us know what is your reaction about it at www.facebook.com/salekurnsu
+                                                                 ---------------------------    
